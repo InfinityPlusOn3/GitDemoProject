@@ -9,3 +9,4 @@ C:\Users\stefa\CrossPlayformLibraryDemo\GitDemoProject\src\DemoLibrary\obj\Debug
 C:\Users\stefa\CrossPlayformLibraryDemo\GitDemoProject\src\DemoLibrary\obj\Debug\net10.0\refint\DemoLibrary.dll
 C:\Users\stefa\CrossPlayformLibraryDemo\GitDemoProject\src\DemoLibrary\obj\Debug\net10.0\DemoLibrary.pdb
 C:\Users\stefa\CrossPlayformLibraryDemo\GitDemoProject\src\DemoLibrary\obj\Debug\net10.0\ref\DemoLibrary.dll
+C:\Users\stefa\CrossPlayformLibraryDemo\GitDemoProject\src\DemoLibrary\obj\Debug\net10.0\DemoLibrary.sourcelink.json
