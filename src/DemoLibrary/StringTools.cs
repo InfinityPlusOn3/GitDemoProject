@@ -4,6 +4,7 @@ public static class StringTools
 {
     public static string Reverse(string input)
     {
+        // Hello again
         if (string.IsNullOrEmpty(input))
             return input;
 
